@@ -5,4 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/statix_yunluo.mk
+    $(LOCAL_DIR)/infinity_yunluo.mk
+
+COMMON_LUNCH_CHOICES := \
+    infinity_yunluo-user \
+    infinity_yunluo-userdebug \
+    infinity_yunluo-eng
