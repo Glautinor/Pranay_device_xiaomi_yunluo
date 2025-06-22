@@ -349,8 +349,8 @@ PRODUCT_SOONG_NAMESPACES += \
     hardware/google/pixel \
     hardware/mediatek \
     hardware/mediatek/libmtkperf_client \
-    hardware/infinity/interfaces/power-libperfmgr \
-    vendor/hardware/xiaomi
+    hardware/lineage/interfaces/power-libperfmgr \
+    hardware/xiaomi
 
 # Soundtrigger
 PRODUCT_PACKAGES += \

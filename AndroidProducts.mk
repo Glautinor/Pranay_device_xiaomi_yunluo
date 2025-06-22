@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/infinity_yunluo.mk
+    $(LOCAL_DIR)/lineage_yunluo.mk
 
 COMMON_LUNCH_CHOICES := \
-    infinity_yunluo-user \
-    infinity_yunluo-userdebug \
-    infinity_yunluo-eng
+    lineage_yunluo-user \
+    lineage_yunluo-userdebug \
+    lineage_yunluo-eng

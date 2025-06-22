@@ -60,11 +60,3 @@ ro.zram.mark_idle_delay_mins=60
 ro.zram.first_wb_delay_mins=1440
 ro.zram.periodic_wb_delay_hours=24
 
-# ════════════════════════════════════════
-# Project Infinity X
-# ════════════════════════════════════════
-ro.product.marketname=Redmi Pad
-ro.infinity.soc=MediaTek Helio G99
-ro.infinity.battery=8000 mAh
-ro.infinity.display=1200 x 2000, 90 Hz
-ro.infinity.camera=8MP

@@ -30,8 +30,8 @@ function vendor_imports() {
 		"device/xiaomi/yunluo",
 		"hardware/mediatek",
 		"hardware/mediatek/libmtkperf_client",
-		"hardware/infinity/interfaces/power-libperfmgr",
-		"vendor/hardware/xiaomi",
+		"hardware/lineage/interfaces/power-libperfmgr",
+		"hardware/xiaomi",
 EOF
 }
 
