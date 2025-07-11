@@ -14,6 +14,9 @@ $(call inherit-product, device/xiaomi/yunluo/device.mk)
 # Inherit some common lineage Stuff
 $(call inherit-product, vendor/lineage/config/common_full_tablet_wifionly.mk)
 
+# Disable Eppe
+TARGET_DISABLE_EPPE := true
+
 PRODUCT_NAME := lineage_yunluo
 PRODUCT_DEVICE := yunluo
 PRODUCT_MANUFACTURER := Xiaomi
